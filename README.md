@@ -1,15 +1,15 @@
 #### This project is for the Devops bootcamp exercise for 
 #### "Containers - Docker" 
 
-Demo Project:
+**Demo Project:**
 
 To configure and run a java application with Mysql DB on a server using docker-compose.
 
-Technologies used:
+**Technologies used:**
 
 Docker, Mysql, Phpmyadmin, Java, Nexus, Amazon ECR, Digital Ocean.
 
-Project Desciption:
+**Project Desciption:**
 
 . Cloned Git repo and edited the code to avoid hardcoding DB creditentials.
 
