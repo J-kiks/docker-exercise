@@ -8,6 +8,7 @@ Technologies used:
 Docker, Mysql, Phpmyadmin, Java, Nexus, Amazon ECR, Digital Ocean.
 
 Project Desciption:
+
 . Cloned Git repo and edited the code to avoid hardcoding DB creditentials.
 . Tested application loaclly using Mysql docker image, then built the jar file to start and run application o localhost
 . Also ran a Mysql GUI container (Phpmyadmin Docker Image) to allow viewing of database data
